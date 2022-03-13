@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bloody Axe
+* source:	https://sketchfab.com/3d-models/bloody-axe-711a137aa049452894b342c9c7cdd34f
+* author:	Georgia.Perry (https://sketchfab.com/Georgia.Perry)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bloody Axe" (https://sketchfab.com/3d-models/bloody-axe-711a137aa049452894b342c9c7cdd34f) by Georgia.Perry (https://sketchfab.com/Georgia.Perry) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
