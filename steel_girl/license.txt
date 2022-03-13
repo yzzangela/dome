@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steel girl
+* source:	https://sketchfab.com/3d-models/steel-girl-fc46a7e4108948849f3a0d848f35aff7
+* author:	sunliil (https://sketchfab.com/sunliil)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steel girl" (https://sketchfab.com/3d-models/steel-girl-fc46a7e4108948849f3a0d848f35aff7) by sunliil (https://sketchfab.com/sunliil) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
